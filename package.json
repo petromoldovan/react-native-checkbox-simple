@@ -1,6 +1,6 @@
 {
   "name": "react-native-checkbox-simple",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "react-native-checkbox-simple",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,17 @@
   },
   "keywords": [
     "react-native",
-    "checkbox"
+    "checkbox",
+    "reactnative",
+    "react-native-component",
+    "react-native-checkbox",
+    "check-box",
+    "check",
+    "box",
+    "react-component",
+    "ios",
+    "android",
+    "react-native-simple-checkbox"
   ],
   "repository": {
     "type": "git",

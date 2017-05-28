@@ -2,11 +2,11 @@ Simple, cross-platform and highly customizable react-native checkbox.
 
 ## Install with npm
 
-`npm i --save simple-react-native-checkbox`
+`npm i --save react-native-checkbox-simple`
 
 ## Basic Usage
 ```js
-import Checkbox from 'simple-react-native-checkbox';
+import Checkbox from 'react-native-checkbox-simple';
 
 ...
 
